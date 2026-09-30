@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ========================= -->
+    <!-- CORNER RADII -->
+    <!-- ========================= -->
+
+    <dimen name="radius_xs">4dp</dimen>
+    <dimen name="radius_small">8dp</dimen>
+    <dimen name="radius_medium">14dp</dimen>
+    <dimen name="radius_large">20dp</dimen>
+    <dimen name="radius_xlarge">28dp</dimen>
+    <dimen name="radius_pill">100dp</dimen>
+
+    <!-- ========================= -->
+    <!-- SPACING -->
+    <!-- ========================= -->
+
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xxlarge">32dp</dimen>
+    <dimen name="spacing_huge">40dp</dimen>
+
+    <!-- ========================= -->
+    <!-- PADDING -->
+    <!-- ========================= -->
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">24dp</dimen>
+    <dimen name="padding_xxlarge">32dp</dimen>
+
+    <!-- ========================= -->
+    <!-- CARD PADDING -->
+    <!-- ========================= -->
+
+    <dimen name="card_padding_small">12dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_padding_large">20dp</dimen>
+
+    <!-- ========================= -->
+    <!-- BUTTON -->
+    <!-- ========================= -->
+
+    <dimen name="button_height_small">44dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="button_height_large">56dp</dimen>
+
+    <dimen name="button_horizontal_padding">20dp</dimen>
+
+    <!-- ========================= -->
+    <!-- ICONS -->
+    <!-- ========================= -->
+
+    <dimen name="icon_tiny">16dp</dimen>
+    <dimen name="icon_small">18dp</dimen>
+    <dimen name="icon_medium">24dp</dimen>
+    <dimen name="icon_large">32dp</dimen>
+    <dimen name="icon_xlarge">48dp</dimen>
+
+    <!-- ========================= -->
+    <!-- AVATARS -->
+    <!-- ========================= -->
+
+    <dimen name="avatar_small">32dp</dimen>
+    <dimen name="avatar_medium">40dp</dimen>
+    <dimen name="avatar_large">56dp</dimen>
+    <dimen name="avatar_xlarge">72dp</dimen>
+
+    <!-- ========================= -->
+    <!-- STROKES -->
+    <!-- ========================= -->
+
+    <dimen name="stroke_thin">1dp</dimen>
+    <dimen name="stroke_medium">1.5dp</dimen>
+    <dimen name="stroke_thick">2dp</dimen>
+
+    <!-- ========================= -->
+    <!-- NAVIGATION -->
+    <!-- ========================= -->
+
+    <dimen name="toolbar_height">64dp</dimen>
+    <dimen name="bottom_nav_height">72dp</dimen>
+
+    <!-- ========================= -->
+    <!-- FLOATING ACTION BUTTON -->
+    <!-- ========================= -->
+
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_size_small">48dp</dimen>
+
+</resources>

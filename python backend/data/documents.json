@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Artificial Intelligence",
+    "content": "Artificial Intelligence, or AI, is the field of computer science concerned with creating systems that can perform tasks that normally require human intelligence. These tasks include reasoning, learning, problem solving, perception, language understanding, and decision making."
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning",
+    "content": "Machine Learning is a branch of artificial intelligence that allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every individual task. Common types include supervised learning, unsupervised learning, and reinforcement learning."
+  },
+  {
+    "id": 3,
+    "title": "Deep Learning",
+    "content": "Deep Learning is a subfield of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is widely used in computer vision, natural language processing, speech recognition, and recommendation systems."
+  },
+  {
+    "id": 4,
+    "title": "Natural Language Processing",
+    "content": "Natural Language Processing, or NLP, is an area of artificial intelligence that focuses on enabling computers to understand, process, analyze, and generate human language. Applications include machine translation, sentiment analysis, text classification, chatbots, and question answering."
+  },
+  {
+    "id": 5,
+    "title": "Computer Vision",
+    "content": "Computer Vision is a field of artificial intelligence that enables computers to understand information contained in images and videos. Important applications include image classification, object detection, face recognition, medical image analysis, and autonomous vehicles."
+  },
+  {
+    "id": 6,
+    "title": "Neural Networks",
+    "content": "A neural network is a machine learning model inspired by the structure of biological neural systems. It contains interconnected computational units called neurons arranged into layers. Neural networks learn by adjusting weights during training to reduce prediction errors."
+  },
+  {
+    "id": 7,
+    "title": "Python Programming",
+    "content": "Python is a high-level programming language widely used in artificial intelligence, machine learning, data science, web development, and automation. Python provides libraries such as NumPy, Pandas, Scikit-learn, PyTorch, and TensorFlow for AI and data-related applications."
+  },
+  {
+    "id": 8,
+    "title": "Data Science",
+    "content": "Data Science combines statistics, mathematics, programming, machine learning, and domain knowledge to extract useful information from data. A typical data science workflow includes collecting data, cleaning data, analyzing data, building models, evaluating results, and communicating insights."
+  },
+  {
+    "id": 9,
+    "title": "Databases",
+    "content": "A database is an organized collection of information that can be stored, managed, and retrieved efficiently. Relational databases store data in tables and commonly use SQL for querying and manipulation. Databases are important for applications that need persistent and structured data."
+  },
+  {
+    "id": 10,
+    "title": "Retrieval-Augmented Generation",
+    "content": "Retrieval-Augmented Generation, or RAG, combines document retrieval with generative artificial intelligence. A retrieval system first finds relevant information from a document collection and then provides that information to a language model so that it can generate a grounded response."
+  }
+]
